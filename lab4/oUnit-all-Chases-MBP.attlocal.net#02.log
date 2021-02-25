@@ -1,0 +1,34 @@
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:1:make_segment/get_points.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:1:make_segment/get_points is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:1:make_segment/get_points.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:3:midpoint_segment.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:3:midpoint_segment is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:3:midpoint_segment.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:5:make_rectangle2.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:5:make_rectangle2 is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:5:make_rectangle2.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:7:unary integers.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:7:unary integers is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:7:unary integers.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:9:is_balanced, total_weight1, total_weight2.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:9:is_balanced, total_weight1, total_weight2 is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:9:is_balanced, total_weight1, total_weight2.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:10:is_balanced', total_weight'.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:10:is_balanced', total_weight' is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:10:is_balanced', total_weight'.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:11:square_tree, square_tree'.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:11:square_tree, square_tree' is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:11:square_tree, square_tree'.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:12:square_tree''.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:12:square_tree'' is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:12:square_tree''.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:13:simplify.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Test all:13:simplify is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:13:simplify.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: Start test all:14:derivative.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 E: Test all:14:derivative has failed.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 E: not equal in test all:14:derivative.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 E: Called from unknown location
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 E: Called from unknown location
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 E: 
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#02 I: End test all:14:derivative.

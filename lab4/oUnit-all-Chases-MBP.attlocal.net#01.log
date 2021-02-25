@@ -1,0 +1,15 @@
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Start test all:0:make_point/get_coords.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Test all:0:make_point/get_coords is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: End test all:0:make_point/get_coords.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Start test all:2:segment_length.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Test all:2:segment_length is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: End test all:2:segment_length.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Start test all:4:make_rectangle.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Test all:4:make_rectangle is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: End test all:4:make_rectangle.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Start test all:6:integer pairs.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Test all:6:integer pairs is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: End test all:6:integer pairs.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Start test all:8:unary integers 2.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: Test all:8:unary integers 2 is successful.
+2021-02-25T02:04:36+00:00 Chases-MBP.attlocal.net#01 I: End test all:8:unary integers 2.

@@ -1,0 +1,24 @@
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:1:ifast_expt.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:1:ifast_expt is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:1:ifast_expt.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:3:ifast_mult.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:3:ifast_mult is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:3:ifast_mult.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:5:product_rec.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:5:product_rec is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:5:product_rec.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:7:product_iter.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:7:product_iter is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:7:product_iter.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:9:pi_approx.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:9:pi_approx is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:9:pi_approx.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:10:sum.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:10:sum is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:10:sum.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:12:compose.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:12:compose is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:12:compose.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Start test all:14:is_prime.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: Test all:14:is_prime is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#02 I: End test all:14:is_prime.

@@ -1,0 +1,24 @@
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:0:fast_expt.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:0:fast_expt is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:0:fast_expt.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:2:fast_mult.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:2:fast_mult is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:2:fast_mult.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:4:isum.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:4:isum is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:4:isum.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:6:factorial_rec.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:6:factorial_rec is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:6:factorial_rec.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:8:factorial_iter.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:8:factorial_iter is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:8:factorial_iter.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:11:product.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:11:product is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:11:product.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:13:repeated.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:13:repeated is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:13:repeated.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Start test all:15:smallest_prime_factor.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: Test all:15:smallest_prime_factor is successful.
+2021-02-07T19:51:37+00:00 Chases-MBP.attlocal.net#01 I: End test all:15:smallest_prime_factor.
